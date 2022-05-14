@@ -1,6 +1,6 @@
 # dosbox-vim
 
-Hey there! Have you ever felt nostalgia for the old MS-DOS Editor, which as of windows 10 is gone? Well, I kind of do sometimes (Even though I'm 18), but I made a quick syntax scheme for VIM that gives that old school vibe. Combined with things such as the IBM PC fonts, and the operator-highlight plugin by valloric, it can really get you back to that old school vibe.
+A old-school DOSBOX-like theme for vim that might induce nostalgia.
 
 # Installation
 
